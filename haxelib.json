@@ -1,0 +1,20 @@
+{
+    "name": "hx-thenable",
+    "license": "MIT",
+    "tags": [
+        "hx-thenable",
+        "thenable",
+        "then",
+        "mapable",
+        "hxThenable"
+    ],
+    "description": "Class represents Thenable and Mapable interfaces and factories for them",
+    "contributors": [
+        "Anatoly-Starodubstev"
+    ],
+    "releasenote": "See https://github.com/mnemesong/hx-thenable/blob/main/README.md",
+    "version": "0.0.1",
+    "url": "https://github.com/mnemesong/hx-thenable",
+    "classPath": "hx/src",
+    "dependencies": {}
+}
