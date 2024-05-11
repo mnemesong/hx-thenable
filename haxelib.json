@@ -13,7 +13,7 @@
         "Anatoly-Starodubstev"
     ],
     "releasenote": "See https://github.com/mnemesong/hx-thenable/blob/main/README.md",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "url": "https://github.com/mnemesong/hx-thenable",
     "classPath": "hx/src",
     "dependencies": {}
